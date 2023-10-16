@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-342">
+    <CLASSES>
+      <root url="jar://C:/jetbra/sqlite-jdbc-342.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
